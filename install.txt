@@ -1,0 +1,7 @@
+ If you are on Windows (instead of Linux / Mac), you will not be able to run the `sudo` command. Try running these instead:
+
+ ```
+   python -m pip install --upgrade pip
+   python -m pip install BeautifulSoup4
+   python -m pip install html5lib==1.0b8
+   python -m pip install plyfile
